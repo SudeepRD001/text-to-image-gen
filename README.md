@@ -16,8 +16,8 @@ This project transforms any text prompt into a stunning image using **Stable Dif
 
 ## 📸 Sample Output
 
-<img src="assets/output_sample1.png" width="400"/>
-<img src="assets/output_sample2.png" width="400"/>
+### 🔹 Main Interface
+![Main Interface](Output.png)
 
 ---
 
